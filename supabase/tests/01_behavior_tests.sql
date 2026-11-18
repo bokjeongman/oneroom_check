@@ -60,6 +60,14 @@ reset role;
 -- === anon ===
 set role anon;
 select set_config('request.jwt.claim.sub','',false);
+do $$ begin
+  perform try_increment_capture_usage('user:victim',3);
+  raise exception 'FAIL: anon can burn usage';
+exception when insufficient_privilege then raise notice 'OK: anon cannot call usage fn'; end $$;
+do $$ begin
+  perform claim_anonymous_judgments(gen_random_uuid());
+  raise exception 'FAIL: anon can claim';
+exception when insufficient_privilege then raise notice 'OK: anon cannot claim judgments'; end $$;
 select count(*) as anon_sees_judgments_should_be_0 from judgments;
 select count(*) as anon_sees_regions_should_be_1 from regions;
 select verdict as anon_shared_lookup from get_shared_judgment('aaaaaaaa-0000-0000-0000-000000000001');

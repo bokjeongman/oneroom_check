@@ -12,4 +12,6 @@ grant usage on schema public, auth, extensions to anon, authenticated, service_r
 grant execute on function auth.uid() to anon, authenticated, service_role;
 alter default privileges in schema public grant all on tables to anon, authenticated, service_role;
 alter default privileges in schema public grant all on sequences to anon, authenticated, service_role;
+-- Supabase 실제 동작: 새 함수 실행 권한이 anon/authenticated에도 기본 부여된다
+alter default privileges in schema public grant execute on functions to anon, authenticated, service_role;
 alter database postgres set search_path = public, extensions;
