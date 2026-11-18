@@ -1,0 +1,20 @@
+name: db-migrate
+
+# 수동 실행: Actions 탭 → db-migrate → Run workflow
+# 적용한 파일은 public.schema_migrations 에 기록하므로 여러 번 실행해도 새 파일만 적용된다.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: db-migrate
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: 마이그레이션 적용
+        run: bash supabase/apply_migrations.sh
