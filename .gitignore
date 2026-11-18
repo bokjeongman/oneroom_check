@@ -1,0 +1,25 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# node
+node_modules/
+.next/
+out/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# ml artifacts
+ml/**/*.ckpt
+models/
+*.lgb.txt
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
