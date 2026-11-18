@@ -13,6 +13,7 @@
 ## 로컬 DB 검증
 ```bash
 psql -d <testdb> -f supabase/tests/00_supabase_stub.sql   # Supabase 환경 흉내
-psql -d <testdb> -f supabase/migrations/20261119000000_initial_schema.sql
+for f in supabase/migrations/*.sql; do psql -d <testdb> -f "$f"; done
 psql -d <testdb> -f supabase/tests/01_behavior_tests.sql
+psql -d <testdb> -f supabase/tests/02_rent_transactions_tests.sql
 ```
