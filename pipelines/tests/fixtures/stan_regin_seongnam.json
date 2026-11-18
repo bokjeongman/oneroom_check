@@ -1,0 +1,362 @@
+{
+ "StanReginCd": [
+  {
+   "head": [
+    {
+     "totalCount": 48
+    },
+    {
+     "numOfRows": "200",
+     "pageNo": "1",
+     "type": "JSON"
+    },
+    {
+     "RESULT": {
+      "resultCode": "INFO-0",
+      "resultMsg": "NOMAL SERVICE"
+     }
+    }
+   ]
+  },
+  {
+   "row": [
+    {
+     "region_cd": "4113000000",
+     "locatadd_nm": "경기도 성남시",
+     "umd_cd": "000",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113100000",
+     "locatadd_nm": "경기도 성남시 수정구",
+     "umd_cd": "000",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110100",
+     "locatadd_nm": "경기도 성남시 수정구 신흥동",
+     "umd_cd": "101",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110200",
+     "locatadd_nm": "경기도 성남시 수정구 태평동",
+     "umd_cd": "102",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110300",
+     "locatadd_nm": "경기도 성남시 수정구 수진동",
+     "umd_cd": "103",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110400",
+     "locatadd_nm": "경기도 성남시 수정구 단대동",
+     "umd_cd": "104",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110500",
+     "locatadd_nm": "경기도 성남시 수정구 산성동",
+     "umd_cd": "105",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110600",
+     "locatadd_nm": "경기도 성남시 수정구 양지동",
+     "umd_cd": "106",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110700",
+     "locatadd_nm": "경기도 성남시 수정구 복정동",
+     "umd_cd": "107",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110800",
+     "locatadd_nm": "경기도 성남시 수정구 창곡동",
+     "umd_cd": "108",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113110900",
+     "locatadd_nm": "경기도 성남시 수정구 신촌동",
+     "umd_cd": "109",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113111000",
+     "locatadd_nm": "경기도 성남시 수정구 오야동",
+     "umd_cd": "110",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113111100",
+     "locatadd_nm": "경기도 성남시 수정구 심곡동",
+     "umd_cd": "111",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113111200",
+     "locatadd_nm": "경기도 성남시 수정구 고등동",
+     "umd_cd": "112",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113111300",
+     "locatadd_nm": "경기도 성남시 수정구 상적동",
+     "umd_cd": "113",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113111400",
+     "locatadd_nm": "경기도 성남시 수정구 둔전동",
+     "umd_cd": "114",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113111500",
+     "locatadd_nm": "경기도 성남시 수정구 시흥동",
+     "umd_cd": "115",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113111600",
+     "locatadd_nm": "경기도 성남시 수정구 금토동",
+     "umd_cd": "116",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113111700",
+     "locatadd_nm": "경기도 성남시 수정구 사송동",
+     "umd_cd": "117",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113300000",
+     "locatadd_nm": "경기도 성남시 중원구",
+     "umd_cd": "000",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113310100",
+     "locatadd_nm": "경기도 성남시 중원구 성남동",
+     "umd_cd": "101",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113310300",
+     "locatadd_nm": "경기도 성남시 중원구 금광동",
+     "umd_cd": "103",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113310400",
+     "locatadd_nm": "경기도 성남시 중원구 은행동",
+     "umd_cd": "104",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113310500",
+     "locatadd_nm": "경기도 성남시 중원구 상대원동",
+     "umd_cd": "105",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113310600",
+     "locatadd_nm": "경기도 성남시 중원구 여수동",
+     "umd_cd": "106",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113310700",
+     "locatadd_nm": "경기도 성남시 중원구 도촌동",
+     "umd_cd": "107",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113310800",
+     "locatadd_nm": "경기도 성남시 중원구 갈현동",
+     "umd_cd": "108",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113310900",
+     "locatadd_nm": "경기도 성남시 중원구 하대원동",
+     "umd_cd": "109",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113313200",
+     "locatadd_nm": "경기도 성남시 중원구 중앙동",
+     "umd_cd": "132",
+     "ri_cd": "00",
+     "adpt_de": "20111107"
+    },
+    {
+     "region_cd": "4113500000",
+     "locatadd_nm": "경기도 성남시 분당구",
+     "umd_cd": "000",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510100",
+     "locatadd_nm": "경기도 성남시 분당구 분당동",
+     "umd_cd": "101",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510200",
+     "locatadd_nm": "경기도 성남시 분당구 수내동",
+     "umd_cd": "102",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510300",
+     "locatadd_nm": "경기도 성남시 분당구 정자동",
+     "umd_cd": "103",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510400",
+     "locatadd_nm": "경기도 성남시 분당구 율동",
+     "umd_cd": "104",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510500",
+     "locatadd_nm": "경기도 성남시 분당구 서현동",
+     "umd_cd": "105",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510600",
+     "locatadd_nm": "경기도 성남시 분당구 이매동",
+     "umd_cd": "106",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510700",
+     "locatadd_nm": "경기도 성남시 분당구 야탑동",
+     "umd_cd": "107",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510800",
+     "locatadd_nm": "경기도 성남시 분당구 판교동",
+     "umd_cd": "108",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113510900",
+     "locatadd_nm": "경기도 성남시 분당구 삼평동",
+     "umd_cd": "109",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511000",
+     "locatadd_nm": "경기도 성남시 분당구 백현동",
+     "umd_cd": "110",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511100",
+     "locatadd_nm": "경기도 성남시 분당구 금곡동",
+     "umd_cd": "111",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511200",
+     "locatadd_nm": "경기도 성남시 분당구 궁내동",
+     "umd_cd": "112",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511300",
+     "locatadd_nm": "경기도 성남시 분당구 동원동",
+     "umd_cd": "113",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511400",
+     "locatadd_nm": "경기도 성남시 분당구 구미동",
+     "umd_cd": "114",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511500",
+     "locatadd_nm": "경기도 성남시 분당구 운중동",
+     "umd_cd": "115",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511600",
+     "locatadd_nm": "경기도 성남시 분당구 대장동",
+     "umd_cd": "116",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511700",
+     "locatadd_nm": "경기도 성남시 분당구 석운동",
+     "umd_cd": "117",
+     "ri_cd": "00",
+     "adpt_de": ""
+    },
+    {
+     "region_cd": "4113511800",
+     "locatadd_nm": "경기도 성남시 분당구 하산운동",
+     "umd_cd": "118",
+     "ri_cd": "00",
+     "adpt_de": ""
+    }
+   ]
+  }
+ ]
+}
